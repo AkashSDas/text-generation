@@ -36,6 +36,10 @@ The data is text which has `4,583,798` words but only `500,000` words are used t
 ![Image1](./docs/imgs/img-1.png)
 ![Image2](./docs/imgs/img-2.png)
 
+**Word cloud for training text**
+
+![Image6](./docs/imgs/img-6.png)
+
 ## License
 
 [APACHE LICENSE, VERSION 2.0](./LICENSE)
