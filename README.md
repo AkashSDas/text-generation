@@ -5,7 +5,7 @@ In this project [Shakespeare plays](https://www.kaggle.com/kingburrito666/shakes
 **While doing all of this we will go through:**
 
 - `Preprocessing` text data
-- Building multilayer `Bidirectional RNN` model
+- Building multilayer `Bidirectional LSTM` model
 - Saving `wording embeddings` learned by the learning algorithm
 
 ## Table of contents
